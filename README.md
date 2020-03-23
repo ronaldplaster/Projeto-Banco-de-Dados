@@ -1,4 +1,24 @@
-# Projeto-Banco-de-Dados - UVV
-Grupo: Larissa Ruthyle, Caio Rodrigues, Deborah Rocha, Nikolas Santa Clara e Ronald Plaster
+Integrantes:
+● Larissa Ruthyle
+● Caio Rodrigues
+● Deborah Rocha
+● Nikolas Santa Clara
+● Ronald Plaster
 
-Descrição: Uma empresa de loja de roupas fez um pedido para criar um banco de dados, onde tivesse o funcionário, a função de cada funcionário dentro da loja, registro de clientes, a entrada e saída do estoque, as filiais que fornecem os produtos (Roupas, sapatos, eletrônicos, como a empresa C&A, Riachuelo), a filial que cada funcionário pertence para manter tudo organizado e trazer mais facilidade em sua empresa ao procurar alguma informação.
+Turma: SI1Nb
+
+Descrição:
+
+Uma cadeia de lojas de roupas contratou nossa empresa para desenvolver um sistema.
+
+Sendo assim, nossa empresa foi contratada para criar o modelo de banco de dados que conseguirá suprir as necessidades deste sistema.
+
+O banco de dados será utilizado por sistemas responsáveis pelas vendas e pelo controle de estoque.
+
+Sabe-se que cada uma das filiais da cadeia de lojas de roupas possui um corpo de funcionários especializados, alguns deles responsáveis pelas vendas, pelo atendimento ao cliente, pelo estoque dos produtos, entrada e saída de cargas (produtos).
+
+Os vendedores recebem comissão por cada uma das vendas, os funcionários do atendimento ao cliente são avaliados pelos clientes após cada atendimento e horários de entrada/saída das cargas marcadas.
+
+Cada uma das filiais emite, periodicamente, relatórios com diversas informações.
+
+A cadeia de lojas de roupas conta com um único estoque, no qual existem diversos produtos em grande quantidade, porém é necessário controlar a quantidade de produtos em estoque para saber o momento de reabastecê-lo. Sendo assim, ao realizar cada venda, o estoque é atualizado.
