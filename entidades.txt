@@ -1,0 +1,10 @@
+1) Venda
+2) Filial
+3) Estoque
+4) Vendedor
+5) Estoquista
+6) Atendente
+7) Produto
+8) Marca
+9) Cliente
+10) Atendimento
