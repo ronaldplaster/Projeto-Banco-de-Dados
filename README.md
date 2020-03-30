@@ -16,7 +16,7 @@ Descrição:
 
 Uma cadeia de lojas de roupas contratou nossa empresa para desenvolver um sistema.
 
-Sendo assim, nossa empresa foi contratada para criar o modelo de banco de dados que conseguirá suprir as necessidades deste sistema.
+Sendo assim, nossa empresa foi contratada para criar o modelo de banco de dados que conseguirá suprir as necessidades deste sistema para manter tudo organizado e disponível para o contratante (loja de roupas).
 
 O banco de dados será utilizado por sistemas responsáveis pelas vendas e pelo controle de estoque.
 
