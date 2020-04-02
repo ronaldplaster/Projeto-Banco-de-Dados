@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="trabalho modelo concentiual bdd" id="F338C804-1619-AFEE-FB56-D1FC706C0CEB" version="3.5">
+<createdBy>ronal</createdBy>
+<createdTime>2020-04-02 01:51:36 UTC</createdTime>
+<ownerDesignName>trabalho modelo concentiual bdd</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>F338C804-1619-AFEE-FB56-D1FC706C0CEB</designId>
+</OSDM_Design>
