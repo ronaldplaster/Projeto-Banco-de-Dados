@@ -4,8 +4,6 @@ Integrantes:
 
 ● Caio Rodrigues
 
-● Deborah Rocha
-
 ● Nikolas Santa Clara
 
 ● Ronald Plaster
