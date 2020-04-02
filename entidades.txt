@@ -5,6 +5,5 @@
 5) Estoquista
 6) Atendente
 7) Produto
-8) Marca
-9) Cliente
-10) Atendimento
+8) Cliente
+9) Atendimento
